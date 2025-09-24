@@ -2,7 +2,7 @@
 
 **`Graduanda de Sistemas de Informação`**
 
-Me chamo Júlia de Oliveira, tenho 22 anos e sou estudante de Sistemas de Informação na UniFOA. Sempre demonstrei interesse pela área de tecnologia, o que despertou em mim o desejo de compreender cada vez mais esse universo. No ano de 2024 dei meu primeiro passo significativo para me ingressar na área, colocando em prática o que venho aprendendo. Estou em busca de novos desafios que me permitam crescer profissionalmente e colaborar com projetos inovadores. 
+Me chamo Júlia de Oliveira, tenho 22 anos e sou estudante de Sistemas de Informação na UniFOA. Sempre demonstrei interesse pela área de tecnologia, o que despertou em mim o desejo de compreender cada vez mais esse universo. No ano de 2024 dei meu primeiro passo significativo para ingressar na área, colocando em prática o que venho aprendendo. Estou em busca de novos desafios que me permitam crescer profissionalmente e colaborar com projetos inovadores. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/j%C3%BAlia-de-oliveira-4a0991386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
